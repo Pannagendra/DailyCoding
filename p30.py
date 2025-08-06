@@ -10,8 +10,8 @@ class Solution:
       for char in reversed(s):
         value = roman_values[char]
         if val>= prev_value:
-          total+=val
+          total+=value
         else:
-          total-=val
-        prev_val =val
+          total-=value
+        prev_val =value
       return total
