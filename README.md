@@ -23,7 +23,7 @@ Welcome to my **DailyCoding** repository! This is my personal collection of codi
 
 ### 🔥 **Daily Coding Problems**
 - Solutions to coding challenges from various platforms
-- Interview questions from top tech companies (FAANG+)
+- Interview questions from top tech companies
 - Algorithm and data structure implementations
 - Problem explanations and approaches
 
@@ -39,43 +39,7 @@ Welcome to my **DailyCoding** repository! This is my personal collection of codi
 
 ### 💡 **Programming Languages**
 - Python
-- Java
-- JavaScript
-- C++
-- SQL
-- *[Add your specific languages]*
 
----
-
-## 📁 Repository Structure
-
-```
-DailyCoding/
-├── 📂 Arrays/
-│   ├── two_sum.py
-│   ├── maximum_subarray.py
-│   └── ...
-├── 📂 LinkedLists/
-│   ├── reverse_linked_list.py
-│   ├── merge_sorted_lists.py
-│   └── ...
-├── 📂 Trees/
-│   ├── binary_tree_traversal.py
-│   ├── lowest_common_ancestor.py
-│   └── ...
-├── 📂 DynamicProgramming/
-│   ├── fibonacci.py
-│   ├── coin_change.py
-│   └── ...
-├── 📂 Graphs/
-│   ├── bfs_dfs.py
-│   ├── shortest_path.py
-│   └── ...
-└── 📂 SystemDesign/
-    ├── design_patterns.py
-    ├── scalability_concepts.md
-    └── ...
-```
 
 ---
 
@@ -92,13 +56,6 @@ cd DailyCoding
 # For Python solutions
 python problem_name.py
 
-# For Java solutions
-javac Solution.java
-java Solution
-
-# For C++ solutions
-g++ solution.cpp -o solution
-./solution
 ```
 
 ---
@@ -170,10 +127,9 @@ g++ solution.cpp -o solution
 ### **Coding Statistics**
 
 ```
-📅 Days of Coding: 365+
-🧩 Problems Solved: 200+
-⭐ GitHub Stars: [Current count]
-🔥 Current Streak: [Your streak]
+📅 Days of Coding: 30+
+🧩 Problems Solved: 40+
+🔥 Current Streak: 30 days
 ```
 
 ### **Platform Profiles**
@@ -193,17 +149,10 @@ Each solution follows this structure:
 """
 Problem: [Problem Name]
 Difficulty: [Easy/Medium/Hard]
-Source: [LeetCode/HackerRank/Interview/etc.]
-Date: [YYYY-MM-DD]
 
 Problem Description:
 [Brief description of the problem]
 
-Approach:
-[Explanation of the solution approach]
-
-Time Complexity: O(?)
-Space Complexity: O(?)
 """
 
 def solution(input_params):
@@ -244,8 +193,6 @@ I welcome contributions and suggestions! Feel free to:
 
 ### **Online Platforms:**
 - 🌐 [LeetCode](https://leetcode.com)
-- 🌐 [HackerRank](https://hackerrank.com)
-- 🌐 [CodeForces](https://codeforces.com)
 - 🌐 [GeeksforGeeks](https://geeksforgeeks.org)
 
 ---
