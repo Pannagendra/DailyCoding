@@ -129,9 +129,9 @@ python problem_name.py
 ```
 
 ### **Platform Profiles**
-- 🔗 **LeetCode**: [Your Profile](https://leetcode.com/your-username)
-- 🔗 **HackerRank**: [Your Profile](https://hackerrank.com/your-username)
-- 🔗 **CodeForces**: [Your Profile](https://codeforces.com/profile/your-username)
+- 🔗 **LeetCode**: [Your Profile](https://leetcode.com/u/Pannagendra/)
+- 🔗 **GeekForGeeks**: [Your Profile](https://www.geeksforgeeks.org/user/pannagendrakl/)
+
 
 </div>
 
@@ -155,10 +155,7 @@ def solution(input_params):
     # Implementation
     pass
 
-# Test cases
-if __name__ == "__main__":
-    # Test cases here
-    pass
+
 ```
 
 ---
